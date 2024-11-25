@@ -74,7 +74,7 @@
     "colorette": "^2.0.19",
     "conf": "^10.2.0",
     "constructs": "10.3.0",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.5",
     "dendriform-immer-patch-optimiser": "^2.1.0",
     "dotenv": "^16.0.3",
     "esbuild": "0.18.13",
